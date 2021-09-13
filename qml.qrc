@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Camera.qml</file>
+        <file>ImageButton.qml</file>
+        <file>capture.png</file>
+        <file>pause.png</file>
+        <file>play.png</file>
+        <file>fullscreen.png</file>
+        <file>record.png</file>
+        <file>open.png</file>
+        <file>PickupMenu.qml</file>
+    </qresource>
+</RCC>

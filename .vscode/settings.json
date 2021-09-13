@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "v4l2-subdev.h": "c",
+        "v4l2-common.h": "c",
+        "v4l2-controls.h": "c",
+        "videodev2.h": "c",
+        "string_view": "c",
+        "tuple": "c"
+    }
+}
